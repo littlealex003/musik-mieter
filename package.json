@@ -26,6 +26,7 @@
     "hardhat": "^2.2.0"
   },
   "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.0.0",
     "abort-controller": "^3.0.0",
     "abstract-leveldown": "^6.3.0",
     "adm-zip": "^0.4.16",
