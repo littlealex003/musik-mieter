@@ -1,4 +1,5 @@
 require("@nomiclabs/hardhat-waffle");
+require('@openzeppelin/hardhat-upgrades');
 
 const { alchemyApiKey, mnemonic } = require('./secrets.json');
 
