@@ -1,5 +1,6 @@
 // We import Chai to use its asserting functions here.
 const { expect } = require("chai");
+import "hardhat/console.sol";
 
 // `describe` is a Mocha function that allows you to organize your tests. It's
 // not actually needed, but having your tests organized makes debugging them
